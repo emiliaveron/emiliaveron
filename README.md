@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emiliya Yavarova
-- 👀 I’m interested in Machine Learning, competitive programming and computer architecture! 
-- 🌱 I’m currently learning Data Science, Machine Learning and Deep Learning
-- 💞️ I’m looking for opportunities to gain experience in any Compsci field, but mainly in ML/DL and AI
+- 👀 I’m interested in ML/DL, particularly its applications in biology and bioinformatics
+- 🌱 I’m currently learning AI, Data Science, and ML/DL
+- 💞️ I’m looking for research opportunities where I can apply my AI skills
 - 📫 How to reach me:
      emiliaverova@gmail.com |
      e.yavarova@ufaz.az
