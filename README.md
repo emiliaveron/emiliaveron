@@ -1,4 +1,5 @@
 - 👋 Hi, I’m **Emiliya Yavarova**
-- 👀 I’m interested in **AI/ML/DL**, particularly its applications in **biology, bioinformatics, genetics and genomics**
-- 💞️ I’m looking for **research opportunities** in genetics and genomics where I can apply my AI/ML/DL skills
-- 📫 How to reach me: **emiliaverova@gmail.com**
+- 🎓 I'm currently studying a Master's program in Integrative Biological Sciences at the University of Strasbourg
+- 👀 I’m interested in **AI/ML/DL**, particularly its applications in **molecular/structural biology, bioinformatics, genetics and genomics**
+- 💞️ I’m looking for **research opportunities** where I can apply my AI/ML/DL skills
+- 📫 How to reach me: **emiliaverova@gmail.com | emiliya.yavarova@etu.unistra.fr**
